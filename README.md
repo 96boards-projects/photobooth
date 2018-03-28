@@ -116,7 +116,7 @@ $ sudo python3 photobooth.py
 After capturing the image, it will be uploaded to the S3 bucket with 96Boards
 watermark and the tinyurl/qrcode will be displayed for 10 seconds.
 
-## 5) Video Demonstration
+## 5) [Video Demonstration](https://www.youtube.com/watch?v=Lksx6JpHOOU)
 
 # References:
 
